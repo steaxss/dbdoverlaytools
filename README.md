@@ -25,19 +25,19 @@ Professional streaming overlays for Dead by Daylight content creators.
 
 ## 📸 Screenshots
 
-![Killer Streak](https://github.com/steaxss/dbdoverlaytools/blob/main/assets/control-panel.png)
+![Killer Streak](https://github.com/steaxss/dbdoverlaytools/blob/main/assets/killer-streak-panel.png)
 *Killer Streak control panel*
 
-![Survivor Streak](https://github.com/steaxss/dbdoverlaytools/blob/main/assets/control-panel.png)
+![Survivor Streak](https://github.com/steaxss/dbdoverlaytools/blob/main/assets/survivor-streak-panel.png)
 *Survivor Streak control panel*
 
-![Win/Loss Tracker](https://github.com/steaxss/dbdoverlaytools/blob/main/assets/control-panel.png)
+![Win/Loss Tracker](https://github.com/steaxss/dbdoverlaytools/blob/main/assets/winloss-tracker-panel.png)
 *Win/Loss Tracker control panel*
 
-![1v1 Timer](https://via.placeholder.com/800x450?text=Timer+Overlay+Screenshot)
+![1v1 Timer](https://github.com/steaxss/dbdoverlaytools/blob/main/assets/timer-panel.png)
 *1v1 Timer with multiple styles*
 
-![Tournament](https://via.placeholder.com/800x450?text=Killer+Streak+Screenshot)
+![Tournament](https://github.com/steaxss/dbdoverlaytools/blob/main/assets/tournament-panel.png)
 *Tournament setup control panel*
 
 ## 💻 System Requirements
