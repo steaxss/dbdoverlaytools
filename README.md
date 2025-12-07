@@ -43,7 +43,8 @@ Professional streaming overlays for Dead by Daylight content creators.
 ## 💻 System Requirements
 
 - **OS**: Windows 10/11 (64-bit)
-- **RAM**: 4GB minimum
+- **RAM**: 8GB RAM
+- **Storage**: 300MB free disk space
 - **Internet**: Required for authentication
 - **Account**: Premium account from dbdoverlaytools.com
 
