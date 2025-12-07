@@ -25,7 +25,7 @@ Professional streaming overlays for Dead by Daylight content creators.
 
 ## 📸 Screenshots
 
-![Control Panel](https://via.placeholder.com/800x450?text=Control+Panel+Screenshot)
+![Control Panel](https://github.com/steaxss/dbdoverlaytools/blob/main/assets/control-panel.png)
 *Main control panel with overlay management*
 
 ![Timer Overlay](https://via.placeholder.com/800x450?text=Timer+Overlay+Screenshot)
