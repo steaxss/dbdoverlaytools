@@ -14,8 +14,8 @@ Professional streaming overlays for Dead by Daylight content creators.
 
 ## ✨ Features
 
-- **Killer Streak Tracker** - Track your killer win streaks with customizable overlays
-- **Survivor Streak Tracker** - Monitor survivor escape streaks  
+- **Killer Streak Overlay** - Track your killer win streaks
+- **Survivor Streak Overlay** - Monitor survivor escape streaks  
 - **Win/Loss Tracker** - Keep count of your overall performance
 - **1v1 Timer** - Professional timer overlay with 4 unique styles
 - **Tournament Overlay** - Track tournament matches and scores
