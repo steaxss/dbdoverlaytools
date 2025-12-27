@@ -8,7 +8,7 @@ Professional streaming overlays for Dead by Daylight content creators.
 
 ## 📥 Download
 
-**[Latest Release (v1.0.0)](https://github.com/steaxss/dbdoverlaytools/releases/latest)**
+**[Latest Release (v1.1.0)](https://github.com/steaxss/dbdoverlaytools/releases/latest)**
 
 > ⚠️ **Premium Account Required**: This application requires a premium account from [dbdoverlaytools.com](https://dbdoverlaytools.com)
 
